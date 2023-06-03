@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: 'https://linkedin.com',
+      href: 'https://www.linkedin.com/in/kuldeep-kumar-kandu-378590231/',
       style: 'rounded-tr-md',
     },
     {
@@ -22,7 +22,7 @@ const SocialLinks = () => {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href: 'https://github.com',
+      href: 'https://github.com/kuldeep8454',
       style: 'rounded-tr-md',
     },
     {

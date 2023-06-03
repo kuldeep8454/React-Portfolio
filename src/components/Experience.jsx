@@ -6,6 +6,7 @@ import react from '../assets/react.png'
 import java from '../assets/java.png'
 import python from '../assets/python.png'
 import tailwind from '../assets/tailwind.png'
+import bootstrap from '../assets/bootstrap.png'
 
 const Experience = () => {
   const techs =[
@@ -49,9 +50,14 @@ const Experience = () => {
       id:7,
       src:java,
       title:'Java',
-      style:'shadow-white'
+      style:'shadow-orange-400'
     },
-
+    {
+      id:8,
+      src:bootstrap,
+      title:'bootstrap',
+      style:'shadow-blue-400'
+    },
   ]
   return (
     <div name='experience' className='bg-gradient-to-b from-gray-800 to-black w-full h-screen'>
